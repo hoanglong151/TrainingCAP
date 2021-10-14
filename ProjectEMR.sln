@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEMR", "ProjectEMR\ProjectEMR.csproj", "{C76C96B5-FD6F-4043-A64D-A361BE903EE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEMR.Tests", "ProjectEMR.Tests\ProjectEMR.Tests.csproj", "{B1B3077A-67A5-4B58-B4FE-29EB4CD8E41E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C76C96B5-FD6F-4043-A64D-A361BE903EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76C96B5-FD6F-4043-A64D-A361BE903EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C76C96B5-FD6F-4043-A64D-A361BE903EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C76C96B5-FD6F-4043-A64D-A361BE903EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1B3077A-67A5-4B58-B4FE-29EB4CD8E41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B3077A-67A5-4B58-B4FE-29EB4CD8E41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B3077A-67A5-4B58-B4FE-29EB4CD8E41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B3077A-67A5-4B58-B4FE-29EB4CD8E41E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44A104AE-A3BB-49F1-B5B8-F55C96F63D85}
+	EndGlobalSection
+EndGlobal
