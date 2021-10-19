@@ -161,6 +161,8 @@ C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\roslyn\VBCSCompiler.exe.c
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\Antlr3.Runtime.dll
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\EntityFramework.dll
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\EntityFramework.SqlServer.dll
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\ExcelDataReader.DataSet.dll
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\ExcelDataReader.dll
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\Microsoft.AspNet.Identity.Core.dll
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\Microsoft.AspNet.Identity.Owin.dll
@@ -187,6 +189,10 @@ C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\System.Web.WebPages.Razor
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\WebGrease.dll
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\EntityFramework.xml
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\EntityFramework.SqlServer.xml
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\ExcelDataReader.pdb
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\ExcelDataReader.xml
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\ExcelDataReader.DataSet.pdb
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\ExcelDataReader.DataSet.xml
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\System.Web.Helpers.xml
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\System.Web.Mvc.xml
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\System.Web.Optimization.xml
@@ -214,9 +220,3 @@ C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\obj\Debug\ProjectEMR.csproj.C
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\obj\Debug\ProjectEMR.csproj.CopyComplete
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\obj\Debug\ProjectEMR.dll
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\obj\Debug\ProjectEMR.pdb
-C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\ExcelDataReader.DataSet.dll
-C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\ExcelDataReader.dll
-C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\ExcelDataReader.pdb
-C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\ExcelDataReader.xml
-C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\ExcelDataReader.DataSet.pdb
-C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR\bin\ExcelDataReader.DataSet.xml

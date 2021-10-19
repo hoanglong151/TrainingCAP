@@ -55,6 +55,9 @@ C:\Users\nguye\source\repos\ProjectEMR\ProjectEMR.Tests\bin\Debug\Microsoft.Owin
 C:\Users\nguye\source\repos\ProjectEMR\ProjectEMR.Tests\bin\Debug\Antlr3.Runtime.dll
 C:\Users\nguye\source\repos\ProjectEMR\ProjectEMR.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
 C:\Users\nguye\source\repos\ProjectEMR\ProjectEMR.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\ProjectEMR.Tests.dll.config
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\ProjectEMR.Tests.dll
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\ProjectEMR.Tests.pdb
@@ -77,8 +80,10 @@ C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Microsoft.Owi
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Owin.dll
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\EntityFramework.dll
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\ExcelDataReader.dll
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\ExcelDataReader.DataSet.dll
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\WebGrease.dll
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Antlr3.Runtime.dll
@@ -100,8 +105,12 @@ C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Microsoft.Asp
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Microsoft.Owin.Security.xml
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\EntityFramework.xml
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\ExcelDataReader.pdb
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\ExcelDataReader.xml
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\ExcelDataReader.DataSet.xml
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Antlr3.Runtime.pdb
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\obj\Debug\ProjectEMR.Tests.csproj.AssemblyReference.cache
@@ -109,12 +118,3 @@ C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\obj\Debug\ProjectEMR.Te
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\obj\Debug\ProjectEMR.Tests.csproj.CopyComplete
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\obj\Debug\ProjectEMR.Tests.dll
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\obj\Debug\ProjectEMR.Tests.pdb
-C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\ExcelDataReader.dll
-C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\ExcelDataReader.DataSet.dll
-C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\ExcelDataReader.pdb
-C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\ExcelDataReader.xml
-C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\ExcelDataReader.DataSet.pdb
-C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\ExcelDataReader.DataSet.xml
