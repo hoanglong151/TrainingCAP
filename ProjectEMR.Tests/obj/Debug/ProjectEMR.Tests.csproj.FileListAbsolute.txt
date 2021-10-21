@@ -118,3 +118,7 @@ C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\obj\Debug\ProjectEMR.Te
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\obj\Debug\ProjectEMR.Tests.csproj.CopyComplete
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\obj\Debug\ProjectEMR.Tests.dll
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\obj\Debug\ProjectEMR.Tests.pdb
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\EPPlus.dll
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\EPPlus.xml
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
