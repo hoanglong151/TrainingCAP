@@ -122,3 +122,7 @@ C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\EPPlus.dll
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\EPPlus.xml
 C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\CloudinaryDotNet.dll
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\CloudinaryDotNet.xml
+C:\Users\nguye\source\repos\TrainingCAP\ProjectEMR.Tests\bin\Debug\System.Text.Encodings.Web.xml

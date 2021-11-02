@@ -10,6 +10,8 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.UI;
+using CloudinaryDotNet;
+using CloudinaryDotNet.Actions;
 using ExcelDataReader;
 using OfficeOpenXml;
 using ProjectEMR.Models;
@@ -202,8 +204,23 @@ namespace ProjectEMR.Areas.Admin.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create(HttpPostedFileBase image, Doctor doctor)
         {
+            var myAccount = new Account { 
+                ApiKey = ConfigurationManager.AppSettings["APIKey"], 
+                ApiSecret = ConfigurationManager.AppSettings["APISecret"], 
+                Cloud = ConfigurationManager.AppSettings["CloudName"]
+            };
+            Cloudinary _cloudinary = new Cloudinary(myAccount);
             if (ModelState.IsValid)
             {
+                var direct = Path.Combine(Server.MapPath("~/ImageDoctors"), image.FileName);
+                image.SaveAs(direct);
+                var uploadParams = new ImageUploadParams()
+                {
+                    File = new FileDescription(direct),
+                    Folder = "Training"
+                };
+                var uploadResult = _cloudinary.Upload(uploadParams);
+                doctor.Image = uploadResult.SecureUrl.AbsoluteUri;
                 db.Doctors.Add(doctor);
                 db.SaveChanges();
                 return RedirectToAction("Index");
